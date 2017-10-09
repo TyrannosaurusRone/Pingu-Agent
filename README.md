@@ -1,5 +1,5 @@
 # Pingu-Agent
-# This project was developed in collaboration with Urvi Parekh.
+### This project was developed in collaboration with Urvi Parekh.
 
 An autonomous agent able to navigate the optimal path of a square lattice graph maze of any size.
 
