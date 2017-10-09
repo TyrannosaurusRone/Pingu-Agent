@@ -1,4 +1,4 @@
-%% SOFTWARE AGENTS COURSEWORK PROJECT: Pingu searches for Robbie the seal
+%% Pingu searches for Robbie the seal
 % Alexander Tarroni and Urvi Parekh
 
 clear all
