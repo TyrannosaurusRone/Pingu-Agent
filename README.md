@@ -1,7 +1,7 @@
 # Pingu-Agent
 ### Alexander Tarroni and Urvi Parekh.
 
-An autonomous agent able to navigate the optimal path of a square lattice graph maze of any size.
+An autonomous agent able to navigate the optimal path of a rectangular lattice graph maze of any size.
 
 This program uses the Q-learning algorithm to autonomously learn the optimal path through a maze. As per the requirements of Q-learning, the maze is modelled as a Markov Decision Process, with each state representing 'Pingu's' (our name for the agent) position in a maze of 'igloos'.
 
